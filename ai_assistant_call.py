@@ -12,7 +12,7 @@ class AI_Assistant:
 
        #prompt
         self.full_transcript = [
-            {"role":"system", "content":"You're an encyclopedia who knows everything about indian states, their cultures and food. Be resourveful and efficient."}
+            {"role":"system", "content":"You're an encyclopedia who knows everything about indian states, their cultures and food. Be resourceful and efficient."}
         ]
 
 
