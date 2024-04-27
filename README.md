@@ -1,4 +1,4 @@
-AI bot  which takes in voice commands and user can ask about Indian states and their cultures. However you can change the prompt as per your wish.
+An AI bot  which takes in voice commands and user can ask about Indian states and their cultures. However you can change the prompt as per your wish.
 
 RUN: "python ai_assistant_call.py" in the command directory of project
 
