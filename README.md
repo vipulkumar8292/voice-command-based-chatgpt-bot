@@ -6,16 +6,16 @@ IMPORTANT REQUIREMENTS
 _____________________
 
 *API KEYS: Kindly use the below api keys before running this program.
-Required API KEYS: ASSEMBLYAI, ELEVENLABS, OPENAI 
-In the __init__ method of CLASS AI_Assistant enter the respective API KEYS where "API-KEY" is mentioned.
+Required API KEYS: ASSEMBLYAI, ELEVENLABS, OPENAI.  
+In the ____init____ method of CLASS AI_Assistant enter the respective API KEYS where "API-KEY" is mentioned.
 			
 
 *IMPORTANT PYTHON LIBRARIES INSTALLATIONS: Kindly install the following libraries before running this program.
-Required installations------> pipinstall --upgrade openai
-pip install assemblyai
-pip install "assemblyai[extras]"
-pip install elevenlabs
-pip install mpv
+Required installations------> pipinstall --upgrade openai,
+pip install assemblyai,
+pip install "assemblyai[extras]",
+pip install elevenlabs,
+pip install mpv,
 pip install portaudio
 
 
